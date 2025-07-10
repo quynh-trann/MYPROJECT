@@ -1,3 +1,16 @@
-![me](https://github.com/user-attachments/assets/b32f6165-4ce0-4add-bb07-b6df532b804c)
-![cloud](https://github.com/user-attachments/assets/044cc5b2-eeb3-49e7-926f-5834f2737ea7)
-![codegirl](https://github.com/user-attachments/assets/addf3eb4-d90c-4ee2-959b-8a4f079c612b)
+🌸 ***Quynh Tran — Web Developer Portfolio***
+
+Welcome to my personal portfolio website! This project showcases who I am — a Computer Science student at George Mason University with a passion for combining art and technology.
+
+✨ ***On this site, you'll find:***
+
+A personalized intro featuring animated visuals and custom graphics
+
+A brief About Me section sharing my background in computer science and my artistic journey
+
+A breakdown of my skills in graphic design and programming, including languages like Python, HTML, CSS, and JavaScript
+
+Contact links and social profiles to connect and collaborate
+
+The site is built with HTML and CSS, reflecting my dedication to creative, user-friendly web design. It showcases both my technical abilities and my unique design perspective.
+
